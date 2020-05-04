@@ -1,2 +1,2 @@
 # hello-world
-This is a short description
+When you encounter a bruh moment
